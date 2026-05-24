@@ -243,5 +243,5 @@ This project demonstrates:
 ---
 
 ## Author
-
-**Manimozhi S**  
+ 
+Developed by Manimozhi Sekar
