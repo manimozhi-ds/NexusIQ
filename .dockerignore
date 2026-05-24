@@ -1,0 +1,10 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+data/raw/train.ft.txt.bz2
+data/raw/test.ft.txt.bz2
+data/raw/Tweets.csv
+data/raw/database.sqlite
