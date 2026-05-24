@@ -135,7 +135,7 @@ NexusIQ/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NexusIQ.git
+git clone https://github.com/manimozhi-ds/NexusIQ.git
 
 cd NexusIQ
 ```
@@ -201,6 +201,13 @@ docker compose up --build
 ```text
 http://localhost:8501
 ```
+## Live Demo
+
+Frontend (Hugging Face):
+https://huggingface.co/spaces/manimozhi-ds/NexusIQ
+
+Backend API:
+https://nexusiq-api.onrender.com
 
 ---
 
