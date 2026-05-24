@@ -61,16 +61,11 @@ into a unified customer intelligence system.
 
 # Dashboard Preview
 
-Add screenshots inside the `assets/` folder.
-
-Example:
-
-```markdown
 ![Dashboard](assets/dashboard.png)
-```
-```markdown
+
+---
+
 ![Dashboard](assets/customersegment.png)
-```
 
 ---
 
