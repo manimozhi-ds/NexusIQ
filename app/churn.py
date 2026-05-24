@@ -32,7 +32,7 @@ def show_churn_prediction():
     if st.button("Predict Churn", key="predict_churn_btn"):
         try:
             response = requests.post(
-                "http://api:8000/predict-churn",
+                "https://nexusiq-api.onrender.com/",
                 json={
                     "SeniorCitizen": senior,
                     "tenure": tenure,
