@@ -1,3 +1,14 @@
+---
+title: NexusIQ
+emoji: 📊
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.57.0"
+app_file: app/dashboard.py
+pinned: false
+---
+
 # NexusIQ
 
 AI-powered customer intelligence platform for churn prediction, customer segmentation, customer review analytics, support intelligence, and explainable AI.
