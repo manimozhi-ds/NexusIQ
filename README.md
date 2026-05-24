@@ -1,6 +1,5 @@
 ---
 title: NexusIQ
-emoji: 📊
 colorFrom: blue
 colorTo: purple
 sdk: streamlit
