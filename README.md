@@ -1,5 +1,6 @@
 ---
 title: NexusIQ
+emoji: 📊
 colorFrom: blue
 colorTo: purple
 sdk: streamlit
@@ -10,6 +11,12 @@ pinned: false
 
 # NexusIQ
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 AI-powered customer intelligence platform for churn prediction, customer segmentation, customer review analytics, support intelligence, and explainable AI.
 
 ---
@@ -18,7 +25,7 @@ AI-powered customer intelligence platform for churn prediction, customer segment
 
 NexusIQ is an enterprise-style AI analytics platform designed to help organizations understand customer behavior, predict churn risk, analyze customer sentiment, classify support tickets, and generate actionable business insights.
 
-The platform combines:
+The platform integrates enterprise AI components including:
 
 - Machine Learning
 - NLP (Transformer-based sentiment analysis)
@@ -74,8 +81,9 @@ into a unified customer intelligence system.
 ![Dashboard](assets/dashboard.png)
 
 ---
+## Customer Segmentation
 
-![Dashboard](assets/customersegment.png)
+![Customer Segmentation](assets/customersegment.png)
 
 ---
 
